@@ -4,10 +4,10 @@
 # [Collaboration through Github and Rstudio](https://app.mozillafestival.org/#_session-259)
 #### Saturday, 1:00pm-3:00pm
 #### [Open Science](https://app.mozillafestival.org/#_space-open-science), Floor 9 - 903
-#### Anna Krystalli
+#### [**\@annakrystalli**](https://twitter.com/annakrystalli) | [**\@MeMohanty**](https://twitter.com/MeMohanty)
 
 
-## Welcome to our [#Mozfest2016](https://twitter.com/search?q=%23Mozfest2016&src=typd) session!
+## Welcome to our [#Mozfest2016](https://twitter.com/search?q=%23Mozfest2016&src=typd) session! :tada:
 
 
 This practical session is designed for R users and aims to set beginners in version control up with some basic skills in using github through Rstudio to manage projects and collaborate online.
@@ -51,7 +51,7 @@ This practical session is designed for R users and aims to set beginners in vers
 
 ***
 
-## **Want to participate remotely? You can!** :thumbs up:
+## **Want to participate remotely? You can!** :thumbsup:
 
 Follow the links to the materials for each section. All steps required are detailed. 
 ### **Contribute to the collaborative #EvoLottery activity! 2.00 -3.00 pm**
