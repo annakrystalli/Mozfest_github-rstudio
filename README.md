@@ -56,4 +56,4 @@ This practical session is designed for R users and aims to set beginners in vers
 Follow the links to the materials for each section. All steps required are detailed. 
 ### **Contribute to the collaborative #EvoLottery activity! 2.00 -3.00 pm**
 
-**Chat** to us on our [**gitter channel**](https://gitter.im/mozfest-gh-rstudio/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link). **Tweet** and **Follow** [**#EvoLottery**](https://twitter.com/search?f=tweets&q=EvoLottery&src=typd)
+**Chat** to us on our [**gitter channel**](https://gitter.im/mozfest-gh-rstudio/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) if you get stuck or just say hello! **Tweet** and **Follow** [**#EvoLottery**](https://twitter.com/search?f=tweets&q=EvoLottery&src=typd)
