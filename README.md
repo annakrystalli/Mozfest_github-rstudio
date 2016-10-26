@@ -51,7 +51,7 @@ This practical session is designed for R users and aims to set beginners in vers
 
 ***
 
-## **Want to participate remotely? You can!**
+## **Want to participate remotely? You can!** :thumbs up:
 
 Follow the links to the materials for each section. All steps required are detailed. 
 ### **Contribute to the collaborative #EvoLottery activity! 2.00 -3.00 pm**
