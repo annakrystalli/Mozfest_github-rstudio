@@ -24,7 +24,7 @@ This practical session is designed for R users and aims to set beginners in vers
 ##### - **get to know the audience** (10 mis)
   - Shout outs and twitter polls.
 
-##### - **[get to know github]()** (25 mins)
+##### - **[get to know github](https://annakrystalli.github.io/Mozfest_github-rstudio/index.html)** (25 mins)
   - github as a computational research tool
 
 <br>
@@ -36,7 +36,7 @@ This practical session is designed for R users and aims to set beginners in vers
 
   - The material is self-paced and includes a worked-example. It is suggested that you work through the sections in order.
 
-#### - [Collaborative github through rstudio]() #EvoLottery (40 mins)
+#### - [Collaborative github through rstudio](https://annakrystalli.github.io/Mozfest_github-rstudio/evolottery.html) #EvoLottery (40 mins)
 
   - **Beak and skull shapes in birds of prey (“raptors”) are strongly coupled and largely controlled by size.** 
 
