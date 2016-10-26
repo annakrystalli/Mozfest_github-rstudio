@@ -4,7 +4,7 @@
 # [Collaboration through Github and Rstudio](https://app.mozillafestival.org/#_session-259)
 #### Saturday, 1:00pm-3:00pm
 #### [Open Science](https://app.mozillafestival.org/#_space-open-science), Floor 9 - 903
-#### [**\@annakrystalli**](https://twitter.com/annakrystalli) | [**\@MeMohanty**](https://twitter.com/MeMohanty)
+#### [**@annakrystalli**](https://twitter.com/annakrystalli) | [**@MeMohanty**](https://twitter.com/MeMohanty)
 
 
 ## Welcome to our [#Mozfest2016](https://twitter.com/search?q=%23Mozfest2016&src=typd) session! :tada:
